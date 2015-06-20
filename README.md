@@ -1,3 +1,9 @@
+#只对代码做了一处修改(Only the code made a modification)：
+https://github.com/yuenshui/EJS-Dynamic-include-template
+
+
+
+
 # EJS
 
 Embedded JavaScript templates
